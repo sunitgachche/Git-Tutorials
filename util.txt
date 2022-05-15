@@ -1,2 +1,3 @@
 all the fucnctions related to sw
 functions are backbone of code
+so util is imp file
