@@ -1,1 +1,2 @@
 all the fucnctions related to sw
+functions are backbone of code
